@@ -33,11 +33,20 @@ This Turborepo has some additional tools already setup for you:
 
 ## Using this starter template
 
-To clone this template locally run the following command: 
+To create a new repo with this template:
 
-```sh
-gh repo clone giannis198/turborepo-template-vite-nest
-```
+<div style="display: flex; flex-direction: column; align-items: center;" >
+<img src="screenshot.png" alt="Alt text" width="500">
+--
+<img src="screenshot2.png" alt="Alt text" width="500">
+--
+<img src="screenshot3.png" alt="Alt text" width="500">
+--
+<img src="screenshot4.png" alt="Alt text" width="500">
+</div>
+
+
+
 
 
 To start the app run the following command:
